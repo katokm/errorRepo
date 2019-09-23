@@ -1,1 +1,1 @@
-https://katokm.github.io/rsschool-cv/cv
+https://katokm.github.io/error/cv
