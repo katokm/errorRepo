@@ -1,1 +1,1 @@
-https://katokm.github.io/error/cv
+https://katokm.github.io/errorRepo/cv
