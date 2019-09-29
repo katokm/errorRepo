@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 319 11" width="319" height="11">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.278;fill: #f5c506 } 
+	</style>
+	<g id="bnner+header">
+		<g id="player">
+			<path id="Rounded Rectangle 1" class="shp0" d="M4.11 0.64L314.46 0.64C316.63 0.64 318.4 2.41 318.4 4.58L318.4 6.16C318.4 8.33 316.63 10.1 314.46 10.1L4.11 10.1C1.93 10.1 0.17 8.33 0.17 6.16L0.17 4.58C0.17 2.41 1.93 0.64 4.11 0.64Z" />
+		</g>
+	</g>
+</svg>

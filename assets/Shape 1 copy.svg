@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 16" width="11" height="16">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="bnner+header">
+		<g id="ctrl">
+			<path id="Shape 1 copy" class="shp0" d="M10.69 7.76L8.36 10.11L8.35 10.11L3.39 15.09C3.39 15.09 2.22 16.05 1.19 14.99C0.16 13.94 0.96 12.84 0.96 12.84L5.91 7.87L0.71 3.11C0.71 3.11 0.09 1.72 0.86 0.93C1.63 0.14 3.04 0.76 3.04 0.76L8.24 5.52L8.26 5.5L10.69 7.76Z" />
+		</g>
+	</g>
+</svg>

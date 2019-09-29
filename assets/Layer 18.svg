@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 433 258" width="433" height="258">
+	<defs>
+		<image width="433" height="258" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbEAAAECBAMAAACCoPRZAAAAAXNSR0IB2cksfwAAABhQTFRF9cUG9cUG9cUG9cUG9cUG9cUG9cUG9cUGs4sZWAAAAAh0Uk5Tc5BWyv+XzJnLR7JYAAABQUlEQVR4nO3PQQ2AMADAwCEBB4hAAgIQMQH4f6GCkC53Ctqx7Ws6xnmt6R7z74SPPM5ynPU463HW46zHWY+zHmc9znqc9TjrcdbjrMdZj7MeZz3Oepz1OOtx1uOsx1mPsx5nPc56nPU463HW46zHWY+zHmc9znqc9TjrcdbjrMdZj7MeZz3Oepz1OOtx1uOsx1mPsx5nPc56nPU463HW46zHWY+zHmc9znqc9TjrcdbjrMdZj7MeZz3Oepz1OOtx1uOsx1mPsx5nPc56nPU463HW46zHWY+zHmc9znqc9TjrcdbjrMdZj7MeZz3Oepz1OOtx1uOsx1mPsx5nPc56nPU463HW46zHWY+zHmc9znqc9TjrcdbjrMdZj7MeZz3Oepz1OOtx1uOsx1mPsx5nPc56nPU463HW46zHWY+znoXPXirVO2/Ni77tAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="bnner+header">
+		<g id="player">
+			<use id="Layer 18" style="opacity: 0.11" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
